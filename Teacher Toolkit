@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MC-ZedZ
+- 👀 I’m interested in Creating Games
+- 🌱 I’m currently learning C#
